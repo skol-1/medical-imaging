@@ -12,6 +12,9 @@ if(isset($_SESSION['userID'])){
     $user = get_user_info($con, $_SESSION['userID']);
 }
 
+
+
+
 ?>
 
 <!DOCTYPE html>
@@ -47,7 +50,7 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(16,173,171,1) 100%, r
   <div class="card-header" style="color: aliceblue">Brain Scan</div>
   <div class="card-body">
     <h5 class="card-title"></h5>
-    <p class="card-text"><a href="brain_scan.html"><button type="button" class="btn btn-outline-light" >ENTER</button></a></p>
+    <p class="card-text"><a href="scan.php"><button type="button" class="btn btn-outline-light" >ENTER</button></a></p>
   </div>
    </div>
     

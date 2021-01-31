@@ -47,19 +47,19 @@
     <div class="row">
       <!--Grid column-->
       <div class="col-lg-6 col-md-12 mb-4 mb-md-0">
-        <h5 class="text-uppercase">About The Developers</h5>
+        <h5 class="text-uppercase" style="color:black">About The Developers</h5>
 
         <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste atque ea quis
-          molestias. Fugiat pariatur maxime quis culpa corporis vitae repudiandae aliquam
-          voluptatem veniam, est atque cumque eum delectus sint!
+          Love Sahaj: Exploring ML and AI,<br>
+          Amrit Romana: Exploring Web development and Java<br>
+          Anmol Virdi: Exploring ML And deep learning
         </p>
       </div>
       <!--Grid column-->
 
       <!--Grid column-->
       <div class="col-lg-3 col-md-6 mb-4 mb-md-0"  style="margin-left:240px;">
-        <h5 class="text-uppercase">LinkedIN Accounts </h5>
+        <h5 class="text-uppercase" style="color:black">LinkedIN Accounts </h5>
 
         <ul class="list-unstyled mb-0">
           <li>
