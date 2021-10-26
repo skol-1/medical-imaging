@@ -11,3 +11,5 @@ The problems it solves:
 1. The main problem encountered was during deploying the ML model onto the frontend (Based on Php). Initially, we used flask. But later on, dropped that and found another good alternative (Using shell commands).
 2. There was a major problem with the ML model as it wasn’t converging properly with the appropriate labels, but we figured a way out.
 3. Another important problem was Time, if the submission deadlines were longer, our model could have been more precisely trained.
+
+[Demo Video](https://youtu.be/SpwNtg42ioU)
